@@ -1,0 +1,5 @@
+{
+  "name": "AI Werewolf: Midnight Whispers",
+  "description": "An interactive Werewolf game where Google Gemini acts as the Game Master, generating narratives, dialogue, and visuals (via Nano Banana model) in real-time.",
+  "requestFramePermissions": []
+}
